@@ -1,6 +1,5 @@
 # Joanne Simpson
 ### Hi
-<br/>
 ![image](https://github.com/jgsimpson15/jgsimpson15/assets/147947456/ad31c9b5-eaa6-4b31-ba18-d4243202e77d)
 
 <!--
