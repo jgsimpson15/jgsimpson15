@@ -3,7 +3,7 @@
 <!-- <p>In case you're wondering, no, i'm not five. I just have a liking towards....leeks</p> -->
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/aa/dc/bb/aadcbbc32d86849f9dde362bb0d1f7f8.gif"/>
+<!-- <img src="https://i.pinimg.com/originals/aa/dc/bb/aadcbbc32d86849f9dde362bb0d1f7f8.gif"/> -->
 </p>
 <!--
 **jgsimpson15/jgsimpson15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
